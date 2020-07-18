@@ -10,5 +10,6 @@ Challenge Assignments at Programming Language Experiment class
 ## 注意
 実行する際は実行可能ファイルのディレクトリにOpenCVのdllファイル等を含めるなどしてください\
 一部、学習データを用いるために以下のリポジトリを所定の位置にクローンしています
-- https://github.com/opencv/opencv.git
-- https://github.com/opencv/opencv_contrib.git
+- https://github.com/opencv/opencv.git \
+  実際に使用したのは opencv/data/haarcascades/ 内のデータセットのみです
+- ~~https://github.com/opencv/opencv_contrib.git~~
